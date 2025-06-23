@@ -27,3 +27,36 @@ Guides the Design Process:
 Focuses on Functionality and User Experience:
 
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+### Key Elements in a Wireframe
+- Layout Structure: Defines the arrangement of elements on the page.
+Navigation: Shows how users will move through the site or application.
+- Content Placement: Indicates where text, images, and other content will be positioned.
+- Functionality: Outlines key functionalities and interactions.
+
+### Types of Wireframes
+- Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+- High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+### WireFrame Tools
+1. Figma:
+- A versatile, cloud-based design tool known for real-time collaboration and its ability to create everything from low-fidelity wireframes to high-fidelity prototypes. 
+2.Miro:
+- A collaborative whiteboard platform that includes a comprehensive wireframe builder with UI libraries and integrations. 
+3. Lucidchart:
+- A diagramming application that can be used for building app and website wireframes, offering features like layers and hotspots for visualizing functionality. 
+4. Mockplus:
+- A tool that offers various prototyping features, including co-creation and testing. 
+5. Sketch:
+- A design tool primarily for macOS users, offering a range of features for wireframing and prototyping.
+
+### Wireframes allow project team members and clients to do such things as:
+#### Test and refine navigation.
+- See how content lays out on the page.
+- Study and rapidly refine the user interface design of web forms and interactive elements.
+- Evaluate overall effectiveness of the page layout against usability best practices.
+
+### WireFrame in Practice
+- A real-world scenario: Imagine designing a mobile app for ordering food from local restaurants. During wireframing, the initial design placed the order confirmation button at the very bottom of a long page of order details. User testing of the wireframes revealed that users often missed the button, especially on smaller phone screens, leading to frustration and abandoned orders.
+- This issue was resolved by moving the order confirmation button to a more prominent location, fixed at the bottom of the screen so it's always visible, regardless of how much the user scrolls.
+- This change, identified early through wireframing, significantly improved the user experience. Post-launch, the app saw a higher order completion rate and positive user reviews related to the ease of placing orders.
